@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-
+- My name is Tinnapat Pattarapiomonpong Age 16 Computer engineering student
 - 🏎️ F1 enthusiast who loves speed and precision.  
 - 💻 Currently learning **Coding** (because it’s like tuning a race car for the brain).  
 - 🈶 Also studying **Japanese language** — こんにちは! 🇯🇵  
