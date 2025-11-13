@@ -46,6 +46,13 @@
 </p>
 
 ---
+ 
+## 📬 Contact
+- GitHub: https://github.com/67991011
+- Email: 67991023@kmitl.ac.th
+- Instagram: https://www.instagram.com/tnpptimp.j/
+ 
+---
 
 💬 *"Racing through code and life, one lap at a time."* 🏁
 
