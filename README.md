@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-- (●'◡'●)<span style="color:F33AFC;">My name is Tinnapat Pattarapiomonpong Age 16
+- <span style="color:F33AFC;">(●'◡'●)</span>>My name is Tinnapat Pattarapiomonpong Age 16
 - 🖥️ Computer engineering student 
 - 🏎️ F1 enthusiast who loves speed and precision.  
 - 💻 Currently learning **Coding** (because it’s like tuning a race car for the brain).  
