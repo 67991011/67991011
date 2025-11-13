@@ -3,7 +3,8 @@
 <h1 align="center">👋 Hii, I'm <span style="color:#00FFFF;">JJ</span> </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+tech+garage!;I+love+Formula+1+%F0%9F%8F%8D;Learning+Coding+and+Japanese+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+tech+garage!;I+love+Formula+1+U+1f3ce U+fe0f
+;Learning+Coding+and+Japanese+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
