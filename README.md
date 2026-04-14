@@ -21,7 +21,7 @@
 ### ⚙️ My Tech Garage (Skills & Tools)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,python,github,vscode,c,c++,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=c++,python,github,vscode,c,javascript,html,css" />
 </p>
 
 ---
