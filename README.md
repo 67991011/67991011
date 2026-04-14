@@ -15,7 +15,6 @@
 - 💻 Currently learning **Coding** (because it’s like tuning a race car for the brain).  
 - 🈶 Also studying **Japanese language** — こんにちは! 🇯🇵  
 - 🏸 My hobbies: **Badminton** and **Driving Gokarts** at full throttle.
-
 ---
 
 ### ⚙️ My Tech Garage (Skills & Tools)
