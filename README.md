@@ -25,28 +25,6 @@
 </p>
 
 ---
-
-### 🚀 Connect with Me
-
-  <p>
-<a href="https://github.com/67991011"><img src="https://img.shields.io/badge/GitHub-67991011-181717?style=for-the-badge&logo=github" alt="github" /></a>
-<a href="mailto:EMAIL_HERE"><img src="https://img.shields.io/badge/Email-EMAIL_HERE-D14836?style=for-the-badge&logo=gmail" alt="email" /></a>
-<a href="https://github.com/67991011?tab=repositories"><img src="https://img.shields.io/badge/Repositories-view-0366d6?style=for-the-badge" alt="repos" /></a>
-<a href="https://github.com/67991011?tab=followers"><img src="https://img.shields.io/github/followers/67991011?label=Follow&style=for-the-badge" alt="followers" /></a>
-</p>
-</div>
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
  
 ## 📬 Contact
 - GitHub: https://github.com/67991011
