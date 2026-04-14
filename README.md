@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-- <span style="color:#F33AFC;">(●'◡'●)</span>  My name is Tinnapat Pattarapiomonpong Age 16
+- <span style="color:#F33AFC;">(●'◡'●)</span>  My name is Tinnapat Pattarapiomonpong Age 17
 - 🖥️ Computer engineering student 
 - 🏎️ F1 enthusiast who loves speed and precision.  
 - 💻 Currently learning **Coding** (because it’s like tuning a race car for the brain).  
@@ -28,7 +28,7 @@
  
 ## 📬 Contact
 - GitHub: https://github.com/67991011
-- Email: 67991023@kmitl.ac.th
+- Email: s2401125@sendai-nct.jp
 - Instagram: https://www.instagram.com/tnpptimp.j/
  
 ---
