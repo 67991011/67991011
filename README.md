@@ -10,7 +10,8 @@
 
 ### 🧠 About Me
 - <span style="color:#F33AFC;">(●'◡'●)</span>  My name is Tinnapat Pattarapiomonpong Age 17
-- 🖥️ Computer engineering student 
+- 🖥️ Computer engineering student
+- 🇯🇵 Study at 仙台高等専門学校広瀬キャンパス
 - 🏎️ F1 enthusiast who loves speed and precision.  
 - 💻 Currently learning **Coding** (because it’s like tuning a race car for the brain).  
 - 🈶 Also studying **Japanese language** — こんにちは! 🇯🇵  
